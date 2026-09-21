@@ -1,0 +1,5 @@
+names:
+  0: license_plate
+nc: 1
+train: /kaggle/input/license-plate-dataset/archive/images/train
+val: /kaggle/input/license-plate-dataset/archive/images/val
